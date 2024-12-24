@@ -1,0 +1,25 @@
+{
+  "name": "quizz_backend",
+  "version": "1.0.0",
+  "description": "Backend for my Quizz Game App.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Game",
+    "Quizz",
+    "Score"
+  ],
+  "author": "Nilesh N. Sadhu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.7",
+    "env": "^0.0.2",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9",
+    "pg": "^8.13.1"
+  }
+}
